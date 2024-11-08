@@ -1,8 +1,7 @@
-# <center> 👋 Hi! I'm Adélaïde LOUIS 👋</center>
+# 👋 Hi! I'm Adélaïde LOUIS 👋
 
-### <center>🎓 Master's Degree in Computer Science & Project Management | 💻 Passionate about Web and Design | 🧩 Adept at Challenges
+### 🎓 Master's Degree in Computer Science & Project Management | 💻 Passionate about Web and Design | 🧩 Adept at Challenges
 
-</center>
 ---
 
 ### About me
@@ -23,7 +22,7 @@
 
 ### 💡 My Favorite Technologies
 
-<center>
+<p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -36,13 +35,13 @@
   <img src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
   <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-</center>
+</p>
 
 ---
 
 ### 📊 GitHub statistics
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Aelhya?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Aelhya?cardType=level&theme=dark&preferLogin=false)]()
 
 <a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aelhya&layout=compact&langs_count=8&card_width=320&theme=dark" />

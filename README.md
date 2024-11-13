@@ -6,7 +6,7 @@
 
 ### About me
 
-- 🎓 ** Master's Degree in Computer Science & Project Management**.  
+- 🎓 **Master's Degree in Computer Science & Project Management**.  
   I have solid experience in web development and project management. I love imagining innovative solutions, planning
   milestones and bringing my projects to fruition.
 
